@@ -53,6 +53,7 @@ public class RegisterActivity extends AppCompatActivity {
             }
         });
 
+
         reg_btn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {

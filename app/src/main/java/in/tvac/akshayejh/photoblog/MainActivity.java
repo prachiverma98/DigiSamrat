@@ -52,7 +52,7 @@ public class MainActivity extends AppCompatActivity {
         addPostBtn.hide();
 
 
-        getSupportActionBar().setTitle("Event Reminder");
+        getSupportActionBar().setTitle("Digi Samrat");
 
         if(mAuth.getCurrentUser() != null) {
             if(mAuth.getCurrentUser().getEmail().equals("winneraayushi@gmail.com")){

@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Event Reminder</string>
+    <string name="app_name">Digi Samrat</string>
     <string name="pass_hint">Password...</string>
     <string name="email_hint">Your Email...</string>
     <string name="login_logo_desc">Logo Login Page</string>
